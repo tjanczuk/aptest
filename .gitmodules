@@ -1,0 +1,3 @@
+[submodule "dante"]
+	path = dante
+	url = git@github.com:tjanczuk/dante.git
